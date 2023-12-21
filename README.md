@@ -1,4 +1,4 @@
-# Adobe's Behaviour Simulation Challenge
+![image](https://github.com/tteecchh/adobe-interiit/assets/122744362/31fd06f7-927a-46f5-8dbe-c935feca1441)# Adobe's Behaviour Simulation Challenge
 
 ### Problem Statement
 
@@ -12,6 +12,9 @@
 [Task 2 Training Data](https://docs.google.com/spreadsheets/d/1oKN_4cMNQHMNrmTSjzKqiJpvDTQA0dAH/edit?usp=drive_link&ouid=101476968084918341858&rtpof=true&sd=true)
 
 To reproduce the experiments here are the links to the required files.
+- [Company data scraped from WikiData](https://drive.google.com/file/d/1nEOwJOBp0nWIwxaEU1pMImIrh3xj2h7l/view?usp=sharing)
+- [FAISS index for MPNet embeddings of train data](https://drive.google.com/file/d/1-IZTBq3gaIooGQNaEuEOwAQCFo1z8ETq/view?usp=sharing)
+- [Incontext learning embeddings for retrieving best samples](https://drive.google.com/file/d/1mWnxNgHazhulJEHQ_TgXNINTvX9W64QA/view?usp=sharing)
 - [Test Prompts for Task2 (company) using incontext learning](https://drive.google.com/file/d/1LgLfdT03r4LhsBjJq3r1iR4hQmXZdcBI/view?usp=drive_link)
 - [Test Prompts for Task2 (time) using incontext learning](https://drive.google.com/file/d/1whnimJSZmrCoP60iHfCZiUKAOD_cVLAa/view?usp=drive_link)
 - [Test Prompts for Task2 (company) using llama adapter](https://drive.google.com/file/d/1QCl_5EososjKqzLePX3N-V0ZY2whCXq_/view?usp=drive_link)
