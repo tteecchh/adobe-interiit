@@ -1,4 +1,4 @@
-![image](https://github.com/tteecchh/adobe-interiit/assets/122744362/31fd06f7-927a-46f5-8dbe-c935feca1441)# Adobe's Behaviour Simulation Challenge
+# Adobe's Behaviour Simulation Challenge
 
 ### Problem Statement
 
